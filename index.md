@@ -2,3 +2,7 @@
 ## Header 2
 ### Header 3
 headers 
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+image 
