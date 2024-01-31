@@ -6,3 +6,7 @@ headers
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 image 
+
+
+``` python
+var myVar = "Hello, world!";
